@@ -1,3 +1,4 @@
+package IfElse;
 import java.util.Scanner;
 public class MaxNum{
 	public static void main(String args[]){

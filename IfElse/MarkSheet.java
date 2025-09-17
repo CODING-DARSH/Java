@@ -1,3 +1,4 @@
+package IfElse;
 import java.util.Scanner;
 public class MarkSheet{
 	public static void main(String args[]){
