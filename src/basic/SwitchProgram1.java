@@ -32,6 +32,7 @@ public class SwitchProgram1 {
 			break;
 		}
 		System.out.println("Ans for your choice is "+ans);
+		
 	}
 
 }
